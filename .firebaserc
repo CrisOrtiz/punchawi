@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "punchawi-77c7e": {
+      "hosting": {
+        "punchawiaa": [
+          "punchawi-77c7e"
+        ]
+      }
+    }
+  }
+}

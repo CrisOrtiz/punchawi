@@ -121,8 +121,16 @@
               "devServerTarget": "punchawiaa:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
-  "defaultProject": "punchawiaa"
+    }
+  },
+  "defaultProject": "punchawiaa",
+  "cli": {
+    "analytics": "7e5bc4e0-79df-4ce6-9ffe-facd456981cd"
+  }
 }
